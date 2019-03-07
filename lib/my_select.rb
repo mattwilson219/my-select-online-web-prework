@@ -3,4 +3,6 @@ def my_select(collection)
  array = []
  while i < collection.length 
  
+ end 
+  array
 end
